@@ -95,7 +95,7 @@ Lesion Registration
 
 SIENAX for Follow Up
 
-- cd /data/pelletier1/genentech/yr8_sienax
+- cd /data/pelletier1/genentech/yr8_sienax 
 
 - For non baseline scans you run: python /data/pelletier1/genentech/yr8_sienax
 - /run_sienax_y8_GK.py /data/pelletier1/genentech/GKyr89_ratio/all_ratios_renamed/*
@@ -115,4 +115,4 @@ Collect DATA from SIENAX
 - cd /data/pelletier1/genentech/yr8_sienax
 - (make sure you are using python 2)
 - python collect_sienax_data_GKedits.py *
-- Data will be saved in a csv called: genentech_yr89_data.csv
+- Data will be saved in a csv called: genentech_yr89_data.csv 
